@@ -1,0 +1,12 @@
+x=1
+y=2
+z1=x+y
+z2=x-y
+z3=x/y
+z4=x*y
+z5=5*y
+print(z1)
+print(z2)
+print(z3)
+print(z4)
+print(z5)
